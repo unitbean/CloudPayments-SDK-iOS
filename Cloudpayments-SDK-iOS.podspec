@@ -30,8 +30,8 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
 
   spec.dependency 'CloudpaymentsNetworking'  
-  spec.dependency 'YandexLoginSDK'
-  spec.dependency 'YandexPaySDK/Dynamic'
+  #spec.dependency 'YandexLoginSDK'
+  #spec.dependency 'YandexPaySDK/Dynamic'
 
   spec.swift_version = '5.0'
 
